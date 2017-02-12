@@ -1,0 +1,20 @@
+/* Put your css in here */
+.voice-recognition-bar {
+  background: white;
+}
+.rightanswer{
+  background: lightgreen;
+}
+.mic-icon {
+  color: black;
+  font-size: 34px;
+  padding: 5px;
+}
+.message{
+  color: black;
+  font-size: 34px;
+  font-family: sans-serif;
+}
+body {
+  background-color: black;
+}
